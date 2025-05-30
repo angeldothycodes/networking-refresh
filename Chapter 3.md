@@ -105,6 +105,16 @@
 
 ---
 
+### **Quick Cable Reference**
+
+| Cable Type        | Use Case                    | Pinout             |
+|-------------------|----------------------------|--------------------|
+| Straight-through  | Host–Switch, Router–Switch  | A–A or B–B         |
+| Crossover         | Switch–Switch, Host–Host    | A–B or B–A         |
+| Rolled            | Console (PC–Router/Switch)  | All pins reversed  |
+| T1 Crossover      | CSU/DSU–CSU/DSU             | 1/2–4/5 swapped    |
+
+
 #### **Wiring Pinouts for Reference**
 
 ```text
@@ -120,11 +130,4 @@ T568A      T568B
 
 
 
-### **Quick Cable Reference**
 
-| Cable Type        | Use Case                    | Pinout             |
-|-------------------|----------------------------|--------------------|
-| Straight-through  | Host–Switch, Router–Switch  | A–A or B–B         |
-| Crossover         | Switch–Switch, Host–Host    | A–B or B–A         |
-| Rolled            | Console (PC–Router/Switch)  | All pins reversed  |
-| T1 Crossover      | CSU/DSU–CSU/DSU             | 1/2–4/5 swapped    |
