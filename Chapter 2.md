@@ -81,24 +81,5 @@ As data moves down the OSI model:
 - This process is called **encapsulation**.
 - When data is received, the process is reversed (decapsulation).
 
----
 
-
-
-
-+--------------+-----------------------------------------------+
-| Application  | File, print, message, database, application   |
-+--------------+-----------------------------------------------+
-| Presentation | Data encryption, compression, translation     |
-+--------------+-----------------------------------------------+
-| Session      | Dialog control                                |
-+--------------+-----------------------------------------------+
-| Transport    | End-to-end connection                         |
-+--------------+-----------------------------------------------+
-| Network      | Routing                                       |
-+--------------+-----------------------------------------------+
-| Data Link    | Framing                                       |
-+--------------+-----------------------------------------------+
-| Physical     | Physical topology                             |
-+--------------+-----------------------------------------------+
 
