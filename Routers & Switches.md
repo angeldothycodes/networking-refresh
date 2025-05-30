@@ -35,4 +35,6 @@ _ You might think that you can just use a cable to connect two LANS together but
 
 
 TERMS:
+
 **Workstations** are systems used by end user on a daily basis.
+**Servers** - "at the service" of the network
