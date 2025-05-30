@@ -28,5 +28,5 @@ You will need to use **router** to connect two or more LANs.
 
 ![image](https://github.com/user-attachments/assets/d51dfa44-03a7-4fa8-9485-d5b7024c5003)
 
-- The host computers from from the Sales LAN can communicate to the devices or get the resources (server data) of the Marketing LAN
+- The host computers from the Sales LAN can communicate to the devices or get the resources (server data) of the Marketing LAN
 
