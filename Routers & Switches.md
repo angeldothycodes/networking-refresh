@@ -37,4 +37,11 @@ _ You might think that you can just use a cable to connect two LANS together but
 TERMS:
 
 **Workstations** are systems used by end user on a daily basis.
-**Servers** - "at the service" of the network
+**Servers** - "at the service" of the network. Usually dedicated to doing on specific improtant thing within the network. Not always because sometimes they have more than one job.
+
+![image](https://github.com/user-attachments/assets/4cfa6630-5f74-43ab-9f95-406245797d5d)
+
+**Host**- in TCP/IP protocol, host means any devices with an IP address.
+
+
+<h3 align="center">Network Types</h3>
