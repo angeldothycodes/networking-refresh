@@ -44,4 +44,9 @@ TERMS:
 **Host**- in TCP/IP protocol, host means any devices with an IP address.
 
 
+
+
 <h3 align="center">Network Types</h3>
+
+
+**Metropolitan Area Network**
