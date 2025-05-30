@@ -1,4 +1,5 @@
 Chapter 1: Introduction to Networks
+
 1. What Is a Network?
 Network: Two or more computers/devices connected to share resources (data, printers, internet, etc.).
 
