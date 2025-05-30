@@ -30,3 +30,9 @@ You will need to use **router** to connect two or more LANs.
 
 - The host computers from the Sales LAN can communicate to the devices or get the resources (server data) of the Marketing LAN
 
+
+_ You might think that you can just use a cable to connect two LANS together but that will just be one big workgroup which is not practical today. Smaller, individual-yet-connected groups, the users on each LAN can enjoy much faster response time when accessing resources. Larger workgroups run more slowly because there are lot of devices that are accessing resources at the same time.
+
+
+TERMS:
+**Workstations** are systems used by end user on a daily basis.
