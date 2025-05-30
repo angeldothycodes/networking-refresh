@@ -17,8 +17,11 @@ Usually a LAN workgroup is created per department- one for Accounting, Sales, IT
 Any device that connects to Accounting LAN can access the resources of the Accounting LAN such as servers and printers.
 
 
+
 > You must be physically connected to a workgroup's LAN to get the resources from it.
 
 
 > You can't get from one LAN to the other LAN and use the server data and printing resources remotely.
+
+You will need to use **router** to connect two or more LANs.
 
