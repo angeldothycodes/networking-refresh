@@ -14,5 +14,11 @@ Switches, on the other hand, connect devices within the same network. For exampl
 LAN is restricted to a particular geographic lcoation such as an office building, a single department within a corporate office, or even a home office.
 
 Usually a LAN workgroup is created per department- one for Accounting, Sales, IT, etc.
-
 Any device that connects to Accounting LAN can access the resources of the Accounting LAN such as servers and printers.
+
+
+> You must be physically connected to a workgroup's LAN to get the resources from it.
+
+
+> You can't get from one LAN to the other LAN and use the server data and printing resources remotely.
+
