@@ -53,3 +53,4 @@ TERMS:
 
 
 **Metropolitan Area Network**
+- A network covering a metropolitan area used to interconnect various buildings and facilities usually over a carrier provider network. Typically offer a high-speed interconnections using in-ground high fiber optics which is really costly.
