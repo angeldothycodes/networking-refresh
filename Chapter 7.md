@@ -422,7 +422,11 @@ Suppose you have `172.16.20.0/24` and three departments with different host need
 
 
 Dept A: 172.16.20.0/25 Hosts: 172.16.20.1 – 172.16.20.126 Broadcast: 172.16.20.127
+
+
 Dept B: 172.16.20.128/26 Hosts: 172.16.20.129 – 172.16.20.190 Broadcast: 172.16.20.191
+
+
 Dept C: 172.16.20.192/28 Hosts: 172.16.20.193 – 172.16.20.206 Broadcast: 172.16.20.207
 
 
