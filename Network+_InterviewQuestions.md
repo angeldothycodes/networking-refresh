@@ -3,7 +3,17 @@
 
 ### 1. Explain the difference between a LAN and a WAN. In what situation would you use each?
 
+**LAN** is connecting devices in a particular location such as an office building, a single department within an office.
+**WAN** is connecting LANs and to connect LANs, they will need routers.
+
+LAN is best used for small networks like small office, SOHO.
+
+WAN is best used for connecting to devices using internet
+
+
 ### 2. Your company is expanding. What network topology would you recommend for scalability and ease of troubleshooting — star, mesh, or hybrid? Why?
+
+If my company is expanindg thatmeans I need to use the star topology
 
 ### 3. Describe the three-tier hierarchical network model. What role does each layer play in a corporate environment?
 
