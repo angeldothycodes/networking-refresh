@@ -28,9 +28,16 @@ Collapsed-core is more cost-effective as it because it will only use one switchi
 
 ### 5. What are the key differences between physical and logical network topologies? Can you give examples of each?
 
+
+
 ### 6. A company uses a spine-leaf topology in its data center. What kind of traffic flow does this topology optimize, and why is it important?
 
+
+
 ### 7. What are north-south and east-west traffic flows in a network? Why should a network engineer be aware of both?
+
+
+North-south is the traffic flow from internal network to internet
 
 ### 8. How would you connect two remote LANs together? What technologies or methods are typically used?
 
