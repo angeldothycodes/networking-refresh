@@ -24,6 +24,8 @@ Access layer
 
 ### 4. A small business has a limited budget but needs network reliability. Would you recommend a collapsed-core architecture or a full three-tier model? Justify your answer.
 
+Collapsed-core is more cost-effective as it because it will only use one switching eqipment for core and distribution layer.
+
 ### 5. What are the key differences between physical and logical network topologies? Can you give examples of each?
 
 ### 6. A company uses a spine-leaf topology in its data center. What kind of traffic flow does this topology optimize, and why is it important?
