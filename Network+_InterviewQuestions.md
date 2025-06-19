@@ -13,9 +13,14 @@ WAN is best used for connecting to devices using internet
 
 ### 2. Your company is expanding. What network topology would you recommend for scalability and ease of troubleshooting — star, mesh, or hybrid? Why?
 
-If my company is expanindg thatmeans I need to use the star topology
+If my company is expanding and ease of toubleshooting is a priority, I need to use the star topology because each devices has its own separate cable that connects them to the central device like a switch
 
 ### 3. Describe the three-tier hierarchical network model. What role does each layer play in a corporate environment?
+
+Core layer
+Distribution layer
+Access layer
+
 
 ### 4. A small business has a limited budget but needs network reliability. Would you recommend a collapsed-core architecture or a full three-tier model? Justify your answer.
 
